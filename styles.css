@@ -37,3 +37,13 @@
     text-decoration: none;
     color: #e5e7eb;
 }
+
+/*** Hero section ***/
+
+.hero {
+    background-color: #1f2937;
+    height: 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
