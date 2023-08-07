@@ -173,4 +173,14 @@
     width: 50%;
     height: 40%;
     background-color: #3382f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-item-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
 }
