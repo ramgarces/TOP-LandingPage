@@ -15,7 +15,7 @@
 }
 
 .header-container {
-    width: 75%;
+    width: 70%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -49,9 +49,11 @@
 }
 
 .hero-container {
-    width: 75%;
+    width: 70%;
     display: flex;
-    gap: 2rem;
+    gap: 5rem;
+    justify-content: center;
+    align-items: center;
 }
 
 .hero-left-bigtext {
@@ -63,5 +65,6 @@
 
 .hero-left-smalltext {
     font-size: 18px;
-    
+    color: #e5e7eb;
+    font-family: roboto, sans-serif;
 }
