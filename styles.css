@@ -3,3 +3,15 @@
     margin: 0;
     padding: 0;
 }
+
+.header {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-family: sans-serif;
+}
+
+.header-logo {
+    color: #f9faf8;
+    font-weight: 800;
+    font-size: 48px;
+}
