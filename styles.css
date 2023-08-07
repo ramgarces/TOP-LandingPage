@@ -54,3 +54,14 @@
     gap: 2rem;
 }
 
+.hero-left-bigtext {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+    font-family: roboto, sans-serif;
+}
+
+.hero-left-smalltext {
+    font-size: 18px;
+    
+}
