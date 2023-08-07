@@ -128,3 +128,13 @@
     font-size: 18px;
     font-family: roboto, sans-serif;
 }
+
+/*** Quote section ***/
+
+.quote {
+    height: 30rem;
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
