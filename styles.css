@@ -207,3 +207,14 @@
     padding: 8px 32px;
     font-weight: 600;
 }
+
+/*** Footer ***/
+footer {
+    background-color: #1f2937;
+    height: 5rem;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
