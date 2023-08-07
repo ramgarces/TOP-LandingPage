@@ -184,3 +184,25 @@
     align-items: center;
     width: 100%;
 }
+
+.call-to-action-title {
+    color: #f9faf8;
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.call-to-action-text {
+    color: #e5e7eb;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+
+.call-to-action-button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: #f9faf8 solid 2px;
+    border-radius: .5rem;
+    padding: 8px 32px;
+    font-weight: 600;
+}
