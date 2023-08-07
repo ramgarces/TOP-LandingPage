@@ -159,3 +159,18 @@
     font-family: roboto, sans-serif;
     font-weight: bolder;
 }
+
+/*** Call to Action section ***/
+
+.call-to-action {
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-to-action-box {
+    width: 50%;
+    height: 40%;
+    background-color: #3382f6;
+}
