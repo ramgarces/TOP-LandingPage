@@ -106,7 +106,7 @@
 
 .information-tiles-container {
     display: flex;
-    gap: 5rem;
+    gap: 2rem;
 }
 
 .information-tile {
@@ -120,4 +120,11 @@
 
 .tile-image {
     width: 90%;
+    border-radius: .5rem;
+    border: solid #3882f6 4px;
+}
+
+.tile-subtext {
+    font-size: 18px;
+    font-family: roboto, sans-serif;
 }
