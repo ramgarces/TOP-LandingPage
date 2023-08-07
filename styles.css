@@ -67,4 +67,14 @@
     font-size: 18px;
     color: #e5e7eb;
     font-family: roboto, sans-serif;
+    margin: 1rem 0;
+}
+
+.hero-button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: none;
+    border-radius: .5rem;
+    padding: 8px 32px;
+    font-weight: 600;
 }
