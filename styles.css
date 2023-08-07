@@ -94,15 +94,30 @@
     justify-content: center;
     align-items: center;
     gap: 5rem;
-    width: 70%;
+    width: 55%;
+}
+
+.information-title {
+    font-size: 36px;
+    font-weight: 800;
+    font-family: roboto, sans-serif;
+    color: #1f2937;
 }
 
 .information-tiles-container {
     display: flex;
-    gap: 2rem;
+    gap: 5rem;
 }
 
 .information-tile {
     display: flex;
     flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.tile-image {
+    width: 90%;
 }
