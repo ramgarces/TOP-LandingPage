@@ -8,10 +8,29 @@
     background-color: #1f2937;
     color: #e5e7eb;
     font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.header-container {
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .header-logo {
     color: #f9faf8;
     font-weight: 800;
     font-size: 48px;
+}
+
+.header-links {
+    list-style: none;
+}
+
+.header-link {
+    display: inline-block;
+    margin: 0 2rem;
 }
