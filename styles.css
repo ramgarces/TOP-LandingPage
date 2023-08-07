@@ -33,7 +33,7 @@
 
 .header-link {
     display: inline-block;
-    margin: 0 2rem;
+    margin: 0 0 0 2rem;
     text-decoration: none;
     color: #e5e7eb;
 }
@@ -46,4 +46,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.hero-container {
+    width: 75%;
+    display: flex;
+    gap: 2rem;
 }
